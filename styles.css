@@ -2,4 +2,51 @@ body {
   margin: 0;
   height: 100vh;
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background-color: #ffff00;
+}
+
+.form {
+  background-color: #fff;
+  padding: 20px 60px;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.score {
+  color: #2a4eb8;
+  font-size: 30px;
+}
+.question {
+  font-size: 30px;
+  font-family: cursive;
+}
+.input {
+  border-radius: 20px;
+  width: 100%;
+  margin: 20px;
+  padding: 10px;
+  color: green;
+  font-size: 20px;
+}
+
+.input::placeholder {
+  font-size: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  color: #fff;
+  background-color: green;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
 }
