@@ -32,6 +32,12 @@ This App Asks simple questions around Math operations and if user gives correct 
 
 I used the `Vanila JavaScript` to add the functionality to the page and used the `localStorage` to store and persist the `score` of the user.
 
-ouput:
+- Use the below mentioned `Tag` to link the script to the page
+
+```javascript
+<script src="./index.js"></script>
+```
+
+output:
 
 ![math-quiz](./math-quiz.png)
