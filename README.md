@@ -35,3 +35,5 @@ I used the `Vanila JavaScript` to add the functionality to the page and used the
 ouput:
 
 ![math-quiz](./math-quiz.png)
+
+[Live-link](https://aravindont.github.io/Math-Quiz/?)
