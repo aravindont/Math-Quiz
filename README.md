@@ -27,3 +27,11 @@ This App Asks simple questions around Math operations and if user gives correct 
 ```
 
 - I used pure `vanilla css` to write the styles for the page.
+
+## JavaScript
+
+I used the `Vanila JavaScript` to add the functionality to the page and used the `localStorage` to store and persist the `score` of the user.
+
+ouput:
+
+![math-quiz](./math-quiz.png)
