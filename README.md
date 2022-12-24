@@ -2,7 +2,7 @@
 
 This App Asks simple questions around Math operations and if user gives correct answers `score` value will be increased by one and if user gives the wrong answer score value will be decreased by one.
 
-`Let's Play`
+[**Let's Play**](https://aravindont.github.io/Math-Quiz/?) The Game
 
 ## Kind of Wireframe :)
 
@@ -35,5 +35,3 @@ I used the `Vanila JavaScript` to add the functionality to the page and used the
 ouput:
 
 ![math-quiz](./math-quiz.png)
-
-[Live-link](https://aravindont.github.io/Math-Quiz/?)
